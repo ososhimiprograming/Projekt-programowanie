@@ -16,7 +16,7 @@ void wypisz(char plansza[6][6])
     printf("[%c][%c][%c][%c][%c][%c]\n",plansza[2][0],plansza[2][1],plansza[2][2],plansza[2][3],plansza[2][4],plansza[2][5]);
 }
 
-int pelnaplansza(char plansza[6][6])
+int pelna(char plansza[6][6])
 {
     int i,j;
         for(i=0;i<6;i++)
@@ -71,7 +71,8 @@ int main(int argc, char *argv[])
     int ruch = 1;
     char wynik = 0;
     char plansza [6][6];
-    
+
 
 }
+
 
