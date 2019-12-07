@@ -71,6 +71,8 @@ int main(int argc, char *argv[])
     int ruch = 1;
     char wynik = 0;
     char plansza [6][6];
+    wypisz(plansza);
+    return 0;
 
 
 }
